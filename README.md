@@ -38,9 +38,9 @@ Manual process of keeping student records, book records, account details, managi
 
 - Delete Authors Records
 
-<img src="preview1.png" alt="Intro" width="800px" />
-<img src="preview2.png" alt="Intro" width="800px" />
-<img src="preview3.png" alt="Intro" width="800px" />
+<img src="Preview1.png" alt="Intro" width="800px" />
+<img src="Preview2.png" alt="Intro" width="800px" />
+<img src="Preview3.png" alt="Intro" width="800px" />
 
 ## Technology Stack Used
 
